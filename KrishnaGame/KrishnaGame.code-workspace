@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/space-invaders-master/fonts"
+		},
+		{
+			"path": "../../Downloads/space-invaders-master/images"
+		},
+		{
+			"path": "../../Downloads/space-invaders-master/sounds"
+		}
+	],
+	"settings": {}
+}
